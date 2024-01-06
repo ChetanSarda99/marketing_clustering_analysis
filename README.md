@@ -21,3 +21,5 @@ Then used K-means clustering.
 4. Analysis and Interpretation
 Analyzed the characteristics of each cluster in a business context.
 Visualized clusters for better understanding and interpretation from a business perspective.
+
+Blog - https://www.notion.so/chetansarda99/Customer-Segmentation-Analysis-K-Means-Clustering-f744c4ad7fab4de8bda47abf70339de2
